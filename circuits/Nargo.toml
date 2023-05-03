@@ -1,5 +1,6 @@
 [package]
-authors = ["Colin Nielsen"]
-compiler_version = "0.4.1"
+authors = ["@colinnielsen"]
+compiler_version = "0.5.1"
+notes = "AMDG"
 
 [dependencies]
