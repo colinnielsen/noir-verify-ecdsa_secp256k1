@@ -40,3 +40,5 @@ if [ $pipeline = "Nargo" ]; then
     printf "\n💻 nargo verify 💻\n\n"
     nargo verify ${name_build}
 fi
+
+printf "🎉\nVerified Proof! 🎉\n🎉\n"
